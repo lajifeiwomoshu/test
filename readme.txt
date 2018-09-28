@@ -1,6 +1,12 @@
-<<<<<<< HEAD
 jajjaj
-=======
 V2
 v2
 hihi
+v2
+V3
+V3
+V3V3
+V3
+V3V3
+V3
+V3
